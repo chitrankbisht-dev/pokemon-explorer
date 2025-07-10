@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pokemon-logo {
+  color: #FFCB05; /* Pokémon Yellow */
+  -webkit-text-stroke: 2px #2A75BB; /* Pokémon Blue */
+  font-weight: 800;
+  text-transform: uppercase;
+}
